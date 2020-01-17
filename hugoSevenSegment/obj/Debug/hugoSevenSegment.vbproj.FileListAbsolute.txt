@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\bin\Debug\hugoSevenSegment.exe.config
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\bin\Debug\hugoSevenSegment.exe
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\bin\Debug\hugoSevenSegment.pdb
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\bin\Debug\hugoSevenSegment.xml
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.Form1.resources
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.Resources.resources
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.exe
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.xml
+C:\Users\acer\source\repos\hugoSevenSegment\hugoSevenSegment\obj\Debug\hugoSevenSegment.pdb
